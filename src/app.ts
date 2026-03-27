@@ -7,6 +7,4 @@ app.use(express.json());
 
 app.use("/telling", tellingRoutes);
 
-
-
 export default app;
