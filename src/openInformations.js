@@ -1,0 +1,1 @@
+export const schoolName = "구로고"
